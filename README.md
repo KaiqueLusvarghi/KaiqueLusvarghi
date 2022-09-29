@@ -12,7 +12,7 @@
   <img align="center" alt="Kaique-Rc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Kaique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
-  <img align="center" alt="Kaique-prog" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-hand-drawn-playing-computer-boy-cartoon-character-design-paintedillustrationcartoon-charactersplaying-computerboyotakucomputer-png-image_679340.jpg">
 </div>
 
 <div> 
