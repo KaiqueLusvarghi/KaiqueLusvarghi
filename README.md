@@ -14,7 +14,7 @@
   
   <img align="center" alt="Kaique-prog" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 </div>
-_________________________________________________________________________________
+
 <div> 
   
 <a href="https://www.instagram.com/lusvarghi_19/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
