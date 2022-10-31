@@ -11,7 +11,7 @@
   <img align="center" alt="Kaique-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Kaique-Rc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Kaique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-hand-drawn-playing-computer-boy-cartoon-character-design-paintedillustrationcartoon-charactersplaying-computerboyotakucomputer-png-image_679340.jpg">
+  <img align="right" alt="Kaique-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-hand-drawn-playing-computer-boy-cartoon-character-design-paintedillustrationcartoon-charactersplaying-computerboyotakucomputer-png-image_679340.jpg">
   
   ##
   
