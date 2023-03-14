@@ -22,7 +22,7 @@
 
 <div> 
 
-
+<h1> Caso Queria entrar em contato, ai estão minhas redes sociais..<\h1>
   
 <a href="https://www.instagram.com/lusvarghi_19/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
 <a href="https://discord.gg/BJQD2mFh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
