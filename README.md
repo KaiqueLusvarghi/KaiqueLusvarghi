@@ -24,7 +24,7 @@
 
 <h2> Caso Queria entrar em contato, ai estão minhas redes sociais...
   
-<a href="https://www.instagram.com/lusvarghi_19/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+<a href="https://www.instagram.com/lusvarghi__/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
 <a href="https://discord.gg/BJQD2mFh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "https://pt.quora.com/profile/Kaique-Lusvarghi"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaique-lusvarghi-02a4841ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
