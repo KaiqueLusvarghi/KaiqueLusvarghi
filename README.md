@@ -1,28 +1,37 @@
 
-## Olá, eu sou o Kaique Lusvarghi, e aqui você encontrara todos meus repositorios e projetos !!!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Kaique+Ortolani+Lusvarghi&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color00bfbf&size=35&center=true&width=1000&lines=Hello,+I'm+a+back-end+developer;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://github.com/KaiqueLusvarghi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquelusvarghi&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquelusvarghi&layout=compact&langs_count=7&theme=black"/>
+  
+  <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=KaiqueLusvarghi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Kauã Ortolani Lusvarghi github starts" />
+  
+ 
+  <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueLusvarghi&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=7"/>
+</div>
 </div> 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kaique-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Kaique-Rc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Kaique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Kaique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Kaique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="right" alt="Kaique-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-hand-drawn-playing-computer-boy-cartoon-character-design-paintedillustrationcartoon-charactersplaying-computerboyotakucomputer-png-image_679340.jpg">
-  
-  ##
-  
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Kaique-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Kaique-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Kaique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kaique-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Kaique-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kaique-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kaique-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+  <img align="right" alt="Kaique-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-hand-drawn-playing-computer-boy-cartoon-character-design-paintedillustrationcartoon-charactersplaying-computerboyotakucomputer-png-image_679340.jpg"> 
   
 </div>
 
-<div> 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaiqueLusvarghi&title_color=4682b4&bg_color=0d1117&color=D2E2F0&line=4682b4&point=D2E2F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2> Caso Queria entrar em contato, ai estão minhas redes sociais...
+
+<div align="center"> 
+
+
   
 <a href="https://www.instagram.com/lusvarghi__/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
 <a href="https://discord.gg/BJQD2mFh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
