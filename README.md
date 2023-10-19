@@ -13,7 +13,6 @@
   <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
 </a>
 
-[platane.github.io/snk](https://platane.github.io/snk)
   <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueLusvarghi&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=7"/>
 </div>
 </div> 
@@ -30,8 +29,7 @@
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaiqueLusvarghi&title_color=4682b4&bg_color=0d1117&color=D2E2F0&line=4682b4&point=D2E2F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaiqueLusvarghi&title_color=4682b4&bg_color=0d1117&color=D2E2F0&line=4682b4&point=D2E2F0&area=true&hide_border=true)]
 
 <div align="center"> 
 
