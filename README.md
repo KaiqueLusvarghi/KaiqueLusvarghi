@@ -9,7 +9,6 @@
   
   <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=KaiqueLusvarghi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Kauã Ortolani Lusvarghi github starts" />
   
- <a href="https://platane.github.io/snk">
   <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
 </a>
 
