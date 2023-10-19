@@ -8,12 +8,12 @@
   <a href="https://github.com/KaiqueLusvarghi">
   
   <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=KaiqueLusvarghi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Kauã Ortolani Lusvarghi github starts" />
-  
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
+
 </a>
 
   <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueLusvarghi&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=7"/>
 </div>
+<br>
 </div> 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kaique-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
@@ -27,8 +27,7 @@
   <img align="right" alt="Kaique-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-hand-drawn-playing-computer-boy-cartoon-character-design-paintedillustrationcartoon-charactersplaying-computerboyotakucomputer-png-image_679340.jpg"> 
   
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaiqueLusvarghi&title_color=4682b4&bg_color=0d1117&color=D2E2F0&line=4682b4&point=D2E2F0&area=true&hide_border=true)]
+<br>
 
 <div align="center"> 
 
