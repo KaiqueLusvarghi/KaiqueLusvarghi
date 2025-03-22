@@ -26,8 +26,8 @@ Atualmente, estou focado no **Back-End com .NET** e aprendendo **Front-End (HTML
 
 ### 📊 Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueLusvarghi&show_icons=true&theme=radical)
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaiqueLusvarghi&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueLusvarghi&show_icons=true&theme=tokyonight)
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaiqueLusvarghi&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <picture>
