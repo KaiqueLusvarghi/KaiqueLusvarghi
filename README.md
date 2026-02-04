@@ -25,7 +25,7 @@ Meu nome é **Kaique Lusvarghi**, tenho 25 anos e sou formado em **Análise e De
 
 ### 📊 Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueLusvarghi&show_icons=true&theme=tokyonight)
+
 [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaiqueLusvarghi&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
