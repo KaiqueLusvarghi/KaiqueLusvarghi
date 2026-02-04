@@ -20,7 +20,6 @@ Meu nome é **Kaique Lusvarghi**, tenho 25 anos e sou formado em **Análise e De
   <img align="center" alt="Kaique-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
-Atualmente, estou focado no **Back-End com .NET** e aprendendo **Front-End (HTML, CSS e JavaScript)** para expandir meu conhecimento em desenvolvimento web. 🚀
 
 ---
 
