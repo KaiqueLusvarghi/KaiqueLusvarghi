@@ -2,7 +2,7 @@
 
 ### Olá! 👋 Bem-vindo ao meu GitHub
 
-Meu nome é **Kaique Lusvarghi**, tenho 24 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Atualmente, estou cursando **Pós-Graduação em Engenharia de Software** e expandindo meus conhecimentos no desenvolvimento Full Stack. 💻✨
+Meu nome é **Kaique Lusvarghi**, tenho 25 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. e também tenho **Pós-Graduação em Engenharia de Software** estou expandindo meus conhecimentos no ecossistema SALESFORCE. 💻✨
 
 ---
 
